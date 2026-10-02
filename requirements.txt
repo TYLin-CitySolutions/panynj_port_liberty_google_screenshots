@@ -1,10 +1,7 @@
-datetime
-PIL
-os
-glob
+Pillow
 pandas
-IPython
-cv2
+ipython
+opencv-python
 numpy
 matplotlib
-matplotlib
+XlsxWriter
